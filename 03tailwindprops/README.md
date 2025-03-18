@@ -1,12 +1,30 @@
-# React + Vite Starter
+# 03tailwindprops - Tailwind Props Demo
 
-This minimal template sets up React with Vite, offering hot module replacement (HMR) and built-in ESLint rules for a streamlined development experience.
+A simple React project demonstrating how to dynamically apply Tailwind CSS properties in your components.
 
-Two official plugins enable Fast Refresh:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) leverages [Babel](https://babeljs.io/) for seamless updates.
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses the high-performance [SWC](https://swc.rs/) compiler to deliver fast refreshes.
+1. Clone the repository.
+2. Navigate to the `03tailwindprops` directory.
+3. Run `npm install` to install the dependencies.
 
-## Enhancing ESLint Configuration
+## Usage
 
-For production-ready applications, consider using TypeScript along with type-aware linting. Explore the [TypeScript template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) for a more robust setup.
+- Run `npm start` to launch the development server.
+- Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
+
+## Features
+
+- Dynamic application of Tailwind CSS classes in React components.
+- Clean, responsive, and modern UI design.
+- Easily extendable for further customization.
+
+## Technologies
+
+- React
+- Tailwind CSS
+- JavaScript
+
+## License
+
+This project is licensed under the MIT License.
